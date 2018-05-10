@@ -24,7 +24,7 @@ export default {
 #app {
   width: 100%;
   height: 100vh;
-  background-color: #FF6464;
+  background-color: blue;
   padding-top: 100px;
 }
 /* .card{
